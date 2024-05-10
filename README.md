@@ -3,7 +3,7 @@
 
 This project requires some env variables
 
-run
+run project
 ```
 npm start
 ```
